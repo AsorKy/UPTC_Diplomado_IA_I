@@ -1,0 +1,11 @@
+Titulos cuadernos 
+#f0b526
+
+Titulos
+rgb(71, 207, 228)
+
+Subtitulos
+rgb(62, 179, 197)
+
+Subsubtitulos
+rgb(42, 100, 109)
